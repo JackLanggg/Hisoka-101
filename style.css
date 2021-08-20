@@ -9,6 +9,10 @@ body {
 	display: block;
 }
 
+h2 {
+	color: hotpink;
+}
+
 #container {
 	display: flex;
 	align-items: center;
